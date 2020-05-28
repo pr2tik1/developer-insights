@@ -1,6 +1,6 @@
 # Developer Insights for the year 2018-19
 
-Exploratory Data Analysis using python programming language. The article can be followed [here](https://medium.com/@pratikbaitha04/what-happens-to-developers-in-2020-5bdb59e09f84).
+Exploratory Data Analysis using python programming language. Follow up the blogpost in towards datascience [here](https://medium.com/@pratikbaitha04/what-happens-to-developers-in-2020-5bdb59e09f84).
 
 ## Dependencies
 
