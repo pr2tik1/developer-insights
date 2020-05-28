@@ -5,12 +5,10 @@ Exploratory Data Analysis using python programming language. The article can be 
 ## Dependencies
 
 Libraries used,
-  - Scikit-Learn
-  - Numpy
-  - Pandas
-  - Matplotlib
-  - Seaborn
-  - Plolty-express
+  - numpy
+  - pandas
+  - plolty-express
+  - plotly == 4.7.1
 
 ## Data 
 Data used is stack overflow survey data from,
