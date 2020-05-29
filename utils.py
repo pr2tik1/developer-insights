@@ -5,7 +5,9 @@ class data_handle():
 
     def make_country_df(data1 , data2):
         """
-        Returns a dataframe of each countries with number of developers for each year
+        Function to 
+        Input : Dataframes, with different years complete data(2019,2018)
+        Output: Dataframe, with country level data for each year as columns/variables
         """
         df = pd.DataFrame()
         
@@ -19,15 +21,8 @@ class data_handle():
         country_data_2.reset_index(inplace = True)
         country_data_2.columns = ['Country', '2018']
         
-        #2017
-        #data3 = data3[data3['Professional']=='Professional developer']
-        #country_data_3 = pd.DataFrame(data3.groupby('Country').Professional.agg('count'))
-        #country_data_3.reset_index(inplace = True)
-        #country_data_3.columns = ['Country', '2017']
-        
         ##############Inner joining############# 
         temp = pd.merge(country_data_1 , country_data_2, on='Country')
-        #df = pd.merge(temp , country_data_3, on='Country')
         return temp
     
     def make_dev(data_1, data_2):
