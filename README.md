@@ -1,6 +1,8 @@
 # Developer Insights for the year 2018-19
 
-Exploratory Data Analysis using python programming language. Follow up the blogpost in towards datascience [here](https://medium.com/@pratikbaitha04/what-happens-to-developers-in-2020-5bdb59e09f84).
+Exploratory Data Analysis using python programming language over stackoverflow data. To know more, follow the blog posted at Towards Data Science in the link shared below,
+
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@pratikbaitha04/what-happens-to-developers-in-2020-5bdb59e09f84)
 
 ## Dependencies
 
