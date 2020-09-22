@@ -2,7 +2,7 @@
 
 Exploratory Data Analysis using python programming language over stackoverflow data. To know more, follow the blog shared below,
 
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@pratikbaitha04/what-happens-to-developers-in-2020-5bdb59e09f84)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://towardsdatascience.com/what-happens-to-programmers-in-2020-d04a6bd7452f)
 
 ## Dependencies
 
